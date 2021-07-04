@@ -1,0 +1,35 @@
+
+.Welcome{
+    background-image: url("images/top-banner.png");
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+h1 span{
+    color: salmon;
+}
+
+.dream{
+    background-image: url("images/dream-bg.png");
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.Ex{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+#border1{
+    border: 3px solid skyblue;
+}
+
+#border2{
+    border: 3px solid rgb(66, 138, 221);
+}
+.footer{
+    text-align: center;
+    margin: 50px;
+}
+
